@@ -93,7 +93,7 @@ Unity 1인칭 서바이벌 공포 게임에서 발생하는 이벤트를 Node.js
 
 - Unity 1인칭 서바이벌 공포 게임 제작 (Outlast / Biohazard 7 / The Disappearance 레퍼런스)
 - 무대: ancient temple 에셋 부분 활용 (폐허·저주받은 고대 사원)
-- 추적자: Undead Horse knight 에셋 부분 활용 (플레이어를 배회·추격하는 적)
+- 추적자:   KNIFE SUIT MAN   경로: Assets/Horror Multiplayer Template by Redicion Studio/Models/Killer/KNIFE SUIT MAN/
 - 플레이어가 추적자에게 근접하거나 발각되면 Wind effect 발생, 동시에 SmartThings API로 실제 에어컨/조명이 한기·암전으로 반응
 - 핵심 루프: 탐험 → 광원 관리 → 추적자 회피·은신 → 생존
 
