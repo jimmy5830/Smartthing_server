@@ -26,6 +26,12 @@
 *.apk
 *.aab
 
+# Mirror Weaver requires these precompiled CecilX assemblies.
+!Smartthings_horror2/Assets/Horror Multiplayer Template by Redicion Studio/ThirdParty/Mirror/Plugins/Mono.Cecil/Mono.CecilX.dll
+!Smartthings_horror2/Assets/Horror Multiplayer Template by Redicion Studio/ThirdParty/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Mdb.dll
+!Smartthings_horror2/Assets/Horror Multiplayer Template by Redicion Studio/ThirdParty/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Pdb.dll
+!Smartthings_horror2/Assets/Horror Multiplayer Template by Redicion Studio/ThirdParty/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Rocks.dll
+
 # ===== Node.js =====
 node_modules/
 npm-debug.log*
